@@ -18,9 +18,8 @@ We can enjoy finding out the following:
 ⇨ Forecasting future temperature by using time-series modelling 
 
 ⇨ Characteristic tendency through year, month, week or day/night and so on...
-.
-.
-.
+
+'''
 Goal of this notebook:
 
 ▷ Practice data cleansing technique
@@ -34,3 +33,4 @@ Goal of this notebook:
 ▷ Practice time-series modeling technique
 
 ▷ Prophet library use
+'''
