@@ -33,7 +33,7 @@ And the Timing information as:
 
 6) Then after checking whether any record is duplicated, it turned out that there were duplicate records. So, we put duplicate records into one unique record.
 
-8) The 'id' column, it seemed to have unique values and two decomposable components, numeric and alpha-numeric.
+7) The 'id' column, it seemed to have unique values and two decomposable components, numeric and alpha-numeric.
 In the case of 'id' of '__export__.temp_log_101144_ff2f0b97', it can be decomposed into two parts.
 numeric part : 101144
 alpha-numeric part : ff2f0b97
@@ -42,7 +42,7 @@ Alpha-numeric part looks impossible to understand, but numeric part may indicate
 There also gaps found in ‘id’ 
 So, it can be said that 'id' column is not related to second information, but it can be used as a unique identifier of each record.
 
-9) EDA - Exploratory data analysis
+8) EDA - Exploratory data analysis
 We plotted a bar graph to show how many times we have readings for each month in a year. The x-axis represents "Month" and y-axis represents "Percentage".
 I also tried plotting the same from the point of view of "Seconds" as well.
 The Univariate Analysis for "Monthly Readings", "Temperature", "Place", "Season", and "Timings" were done. 
