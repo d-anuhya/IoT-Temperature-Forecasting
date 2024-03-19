@@ -10,9 +10,12 @@ Dataset details:
 - out/in : whether the reading was taken from a device installed inside or outside of the room
 
 We can enjoy finding out the following:
-⇨ The relationship between inside and outside temperature
-⇨ Trend or seasonality in the data
-⇨ Forecasting future temperature by using time-series modelling
+⇨ The relationship between inside and outside temperature 
+
+⇨ Trend or seasonality in the data 
+
+⇨ Forecasting future temperature by using time-series modelling 
+
 ⇨ Characteristic tendency through year, month, week or day/night and so on...
 
 Goal of this notebook:
