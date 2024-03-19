@@ -9,7 +9,7 @@ In this Dataset, we have the temperature readings from IoT devices installed out
 - noted_date : date and time of reading
 - temp : temperature readings
 - out/in : whether the reading was taken from a device installed inside or outside of the room
-- 
+
 <be>
 
 **We can enjoy finding out the following:**
