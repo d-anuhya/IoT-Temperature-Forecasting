@@ -1,7 +1,7 @@
 # IoT-Temperature-Forecasting
 In this Dataset, we have the temperature readings from IoT devices installed outside and inside of an anonymous room. Because the device was in the testing phase, it was uninstalled or shut off several times during the entire reading period, which caused some outliers and missing values.
 
-<be>
+<br>
 
 **Dataset details:**
 - id : unique IDs for each reading
@@ -10,7 +10,7 @@ In this Dataset, we have the temperature readings from IoT devices installed out
 - temp : temperature readings
 - out/in : whether the reading was taken from a device installed inside or outside of the room
 
-<be>
+<br>
 
 **We can enjoy finding out the following:**
 
