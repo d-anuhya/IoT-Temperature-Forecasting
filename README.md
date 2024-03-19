@@ -10,6 +10,7 @@ Dataset details:
 - out/in : whether the reading was taken from a device installed inside or outside of the room
 
 We can enjoy finding out the following:
+
 ⇨ The relationship between inside and outside temperature 
 
 ⇨ Trend or seasonality in the data 
@@ -18,10 +19,18 @@ We can enjoy finding out the following:
 
 ⇨ Characteristic tendency through year, month, week or day/night and so on...
 
+
+
 Goal of this notebook:
+
 ▷ Practice data cleansing technique
+
 ▷ Practice EDA technique to deal with time-series data
+
 ▷ Series Decomposition into trend/seasonality
+
 ▷ Practice visualising technique
+
 ▷ Practice time-series modeling technique
+
 ▷ Prophet library use
