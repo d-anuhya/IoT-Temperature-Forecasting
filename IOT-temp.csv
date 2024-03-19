@@ -34,7 +34,6 @@ And the Timing information as:
 6) Then after checking whether any record is duplicated, it turned out that there were duplicate records. So, we put duplicate records into one unique record.
 
 7) It was identified that column 'id' seems to have some information related to 'date' column.
-Column 'date' does not have seconds information, so 'id' may have seconds information or some uniqueness of when the data was collected.
 
 8) The 'id' column, it seemed to have unique values and two decomposable components, numeric and alpha-numeric.
 In the case of 'id' of '__export__.temp_log_101144_ff2f0b97', it can be decomposed into two parts.
